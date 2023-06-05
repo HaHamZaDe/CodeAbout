@@ -30,8 +30,8 @@ With ***CodeAbout***, connecting with others and engaging in meaningful conversa
 
 <p align="center"><img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/bb1e9a6d-0303-497f-bc3c-7f8f0c54ffa5" alt="login" width="300">
 <img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/9cbd9ac8-418f-4f8f-8f90-76e4ebca70a0" alt="sign" width="300"></p>
-<img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/1a483bb3-0a90-4e09-9c5a-50bf33498500" alt="rooms" width="300">
+<p align="center"><img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/1a483bb3-0a90-4e09-9c5a-50bf33498500" alt="rooms" width="300">
 <img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/8830059a-12f6-4f44-aa30-86f4af56dbd7" alt="roomsdelete" width="300">
-<img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/83c231b7-5948-49d9-b008-eb1cd95d830e" alt="roomsdelete2" width="300">
+<img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/83c231b7-5948-49d9-b008-eb1cd95d830e" alt="roomsdelete2" width="300"></p>
 <p align="center"><img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/eac6cb56-3b08-4337-9331-6c328bf52a91" alt="chatroom" width="300">
 <img src="https://github.com/HaHamZaDe/CodeAbout/assets/100444900/dcf64e92-434e-4117-8657-18807dac6762" alt="chatroom2" width="300"></p>
