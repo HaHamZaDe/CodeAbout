@@ -1,5 +1,5 @@
 # CodeAbout!
-The project "Codetalks" in the React Native Mobile App Path available on "[https://academy.patika.dev/](https://academy.patika.dev/tr/paths/react-native-ile-mobile-app-patikasi)".
+**Real-Time Messaging Platform**
 ## Features
 * Account creation and login functionality.
 * Creation of new chat rooms or joining existing ones.
